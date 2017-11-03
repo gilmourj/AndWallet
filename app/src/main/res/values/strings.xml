@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AndWallet</string>
+    <string name="balanceString">Balance: </string>
+    <string name="this_view_shows_your_current_balance">This view shows your current balance:</string>
+    <string name="income">Income:</string>
+    <string name="expense">Expense:</string>
+    <string name="andwallet">AndWallet</string>
+    <string name="balance">Balance:</string>
+    <string name="summary">Summary</string>
+    <string name="expense_or_income">Expense or Income</string>
+    <string name="amount">$ Amount</string>
+    <string name="save">Save</string>
+    <string name="incomeTb">INCOME</string>
+    <string name="expenseTb">EXPENSE</string>
+    <string name="valid_amount_error">You must enter a valid dollar amount</string>
+    <string name="title_error">Title is required!</string>
+
+
+</resources>
